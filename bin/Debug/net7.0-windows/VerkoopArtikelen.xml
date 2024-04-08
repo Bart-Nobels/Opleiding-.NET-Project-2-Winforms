@@ -1,0 +1,26 @@
+<VerkoopArtikelen>
+  <VerkoopArtikel>
+    <Naam>Eristoff</Naam>
+    <ID>9d52ef32-b116-4f62-8543-70a143b82664</ID>
+    <AantalInStock>100</AantalInStock>
+    <Verkoopprijs>9,99</Verkoopprijs>
+  </VerkoopArtikel>
+  <VerkoopArtikel>
+    <Naam>Smirnoff</Naam>
+    <ID>1851bd48-a887-47c8-bf81-388cb917432b</ID>
+    <AantalInStock>100</AantalInStock>
+    <Verkoopprijs>12</Verkoopprijs>
+  </VerkoopArtikel>
+  <VerkoopArtikel>
+    <Naam>Absolut</Naam>
+    <ID>5fb842f1-be72-4dee-802c-e598d034e7fe</ID>
+    <AantalInStock>130</AantalInStock>
+    <Verkoopprijs>10</Verkoopprijs>
+  </VerkoopArtikel>
+  <VerkoopArtikel>
+    <Naam>Grey Goose</Naam>
+    <ID>c5e8a1b4-650f-4382-aa32-4806e466deab</ID>
+    <AantalInStock>85</AantalInStock>
+    <Verkoopprijs>11</Verkoopprijs>
+  </VerkoopArtikel>
+</VerkoopArtikelen>

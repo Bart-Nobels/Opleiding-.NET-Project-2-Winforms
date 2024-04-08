@@ -1,0 +1,128 @@
+<GebruikersPlus>
+  <GebruikerPlus>
+    <ID>02ee908f-c681-48b0-bbe7-bebe1c74e4c2</ID>
+    <Naam>Boonen</Naam>
+    <Voornaam>Tom</Voornaam>
+    <Gebruikersnaam>A1</Gebruikersnaam>
+    <Paswoord>123</Paswoord>
+    <Adres>Voorbeeldstraat 123, 1111 Voorbeeld</Adres>
+    <Telefoonnummer>099 99 99 99</Telefoonnummer>
+    <Rekeningnummer>BE00000000000000</Rekeningnummer>
+    <Loon>7000</Loon>
+    <TellerPaswoord>0</TellerPaswoord>
+    <Afdelingen />
+    <RolID>81392016-592b-4540-a16d-00f2cd889cc7</RolID>
+    <RolNaam>Admin</RolNaam>
+    <XMLBewerken>True</XMLBewerken>
+    <XMLAanmaken>True</XMLAanmaken>
+    <XMLLezen>True</XMLLezen>
+    <XMLEncrypteren>True</XMLEncrypteren>
+    <TXTBewerken>True</TXTBewerken>
+    <TXTAanmaken>True</TXTAanmaken>
+    <TXTLezen>True</TXTLezen>
+    <TXTEncrypteren>True</TXTEncrypteren>
+    <JSONBewerken>True</JSONBewerken>
+    <JSONAanmaken>True</JSONAanmaken>
+    <JSONLezen>True</JSONLezen>
+    <JSONEncrypteren>True</JSONEncrypteren>
+  </GebruikerPlus>
+  <GebruikerPlus>
+    <ID>168f555a-fdfd-4ee8-b64b-9b72cb210b41</ID>
+    <Naam>Evenepoel</Naam>
+    <Voornaam>Remco</Voornaam>
+    <Gebruikersnaam>M1</Gebruikersnaam>
+    <Paswoord>123</Paswoord>
+    <Adres>Tourstraat 1, 1000 Brussel</Adres>
+    <Telefoonnummer>0474 11 22 33</Telefoonnummer>
+    <Rekeningnummer>BE77665544332211</Rekeningnummer>
+    <Loon>5000</Loon>
+    <TellerPaswoord>0</TellerPaswoord>
+    <Afdelingen>
+      <Afdeling>
+        <Naam>Verkoop</Naam>
+        <ID>70c5fb9f-fe92-4253-ad7e-c7e017a4d2c8</ID>
+        <Omschrijving>Afdeling verantwoordelijk voor het verkopen van producten aan klanten.</Omschrijving>
+      </Afdeling>
+    </Afdelingen>
+    <RolID>7b269ca7-f574-44fd-b2b3-40f2e35d8375</RolID>
+    <RolNaam>Manager</RolNaam>
+    <XMLBewerken>False</XMLBewerken>
+    <XMLAanmaken>True</XMLAanmaken>
+    <XMLLezen>True</XMLLezen>
+    <XMLEncrypteren>True</XMLEncrypteren>
+    <TXTBewerken>False</TXTBewerken>
+    <TXTAanmaken>True</TXTAanmaken>
+    <TXTLezen>True</TXTLezen>
+    <TXTEncrypteren>True</TXTEncrypteren>
+    <JSONBewerken>False</JSONBewerken>
+    <JSONAanmaken>True</JSONAanmaken>
+    <JSONLezen>True</JSONLezen>
+    <JSONEncrypteren>True</JSONEncrypteren>
+  </GebruikerPlus>
+  <GebruikerPlus>
+    <ID>7bad52bc-8668-4ed9-84f6-c0a0d7f55874</ID>
+    <Naam>Cancellara</Naam>
+    <Voornaam>Fabian</Voornaam>
+    <Gebruikersnaam>W1</Gebruikersnaam>
+    <Paswoord>123</Paswoord>
+    <Adres>Zwitsersestraat 123, 1000 Brussel</Adres>
+    <Telefoonnummer>02 111 22 33</Telefoonnummer>
+    <Rekeningnummer>BE11223344556677</Rekeningnummer>
+    <Loon>2500,5</Loon>
+    <TellerPaswoord>0</TellerPaswoord>
+    <Afdelingen>
+      <Afdeling>
+        <Naam>Verkoop</Naam>
+        <ID>70c5fb9f-fe92-4253-ad7e-c7e017a4d2c8</ID>
+        <Omschrijving>Afdeling verantwoordelijk voor het verkopen van producten aan klanten.</Omschrijving>
+      </Afdeling>
+    </Afdelingen>
+    <RolID>56f2ef41-b6c6-48eb-870f-7ec8a2a80d0a</RolID>
+    <RolNaam>Werknemer</RolNaam>
+    <XMLBewerken>False</XMLBewerken>
+    <XMLAanmaken>True</XMLAanmaken>
+    <XMLLezen>True</XMLLezen>
+    <XMLEncrypteren>False</XMLEncrypteren>
+    <TXTBewerken>False</TXTBewerken>
+    <TXTAanmaken>True</TXTAanmaken>
+    <TXTLezen>True</TXTLezen>
+    <TXTEncrypteren>False</TXTEncrypteren>
+    <JSONBewerken>False</JSONBewerken>
+    <JSONAanmaken>True</JSONAanmaken>
+    <JSONLezen>True</JSONLezen>
+    <JSONEncrypteren>False</JSONEncrypteren>
+  </GebruikerPlus>
+  <GebruikerPlus>
+    <ID>854cfe51-a70c-4d77-ad0c-ba1fe40f05e3</ID>
+    <Naam>Zidane</Naam>
+    <Voornaam>Zinedine</Voornaam>
+    <Gebruikersnaam>W2</Gebruikersnaam>
+    <Paswoord>123</Paswoord>
+    <Adres>Kopstootstraat 23, 1000 Brussel</Adres>
+    <Telefoonnummer>0499 99 99 99</Telefoonnummer>
+    <Rekeningnummer>BE98765421345611</Rekeningnummer>
+    <Loon>2500</Loon>
+    <TellerPaswoord>0</TellerPaswoord>
+    <Afdelingen>
+      <Afdeling>
+        <Naam>Aankoop</Naam>
+        <ID>1d96b4ef-1088-4360-a489-b0aa9f86c084</ID>
+        <Omschrijving>Afdeling verantwoordelijk voor het aankopen van producten en stockeren van producten.</Omschrijving>
+      </Afdeling>
+    </Afdelingen>
+    <RolID>56f2ef41-b6c6-48eb-870f-7ec8a2a80d0a</RolID>
+    <RolNaam>Werknemer</RolNaam>
+    <XMLBewerken>False</XMLBewerken>
+    <XMLAanmaken>True</XMLAanmaken>
+    <XMLLezen>True</XMLLezen>
+    <XMLEncrypteren>True</XMLEncrypteren>
+    <TXTBewerken>False</TXTBewerken>
+    <TXTAanmaken>True</TXTAanmaken>
+    <TXTLezen>True</TXTLezen>
+    <TXTEncrypteren>True</TXTEncrypteren>
+    <JSONBewerken>False</JSONBewerken>
+    <JSONAanmaken>True</JSONAanmaken>
+    <JSONLezen>True</JSONLezen>
+    <JSONEncrypteren>True</JSONEncrypteren>
+  </GebruikerPlus>
+</GebruikersPlus>

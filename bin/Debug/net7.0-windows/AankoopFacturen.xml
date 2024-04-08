@@ -1,0 +1,43 @@
+<AankoopFacturen>
+  <AankoopFactuur>
+    <DatumOpmaakFactuur>9/01/2024 11:51:42</DatumOpmaakFactuur>
+    <ID>8657fd1f-f4b5-4e7c-b2d9-d581e5662747</ID>
+    <NaamMedewerker>Zidane</NaamMedewerker>
+    <VoornaamMedewerker>Zinedine</VoornaamMedewerker>
+    <NaamLeverancier>Bools &amp; Booze</NaamLeverancier>
+    <AankoopArtikelen>
+      <AankoopArtikel>
+        <Naam>Eristoff</Naam>
+        <ID>474e56f5-b878-4ae2-b56c-dadab915d67a</ID>
+        <AantalInStock>100</AantalInStock>
+        <Aankoopprijs>4,5</Aankoopprijs>
+        <PlaatsInWarenhuis>C4</PlaatsInWarenhuis>
+        <DatumVanAankoop>9/01/2024 11:49:34</DatumVanAankoop>
+      </AankoopArtikel>
+      <AankoopArtikel>
+        <Naam>Smirnoff</Naam>
+        <ID>9bbeb49c-cdd2-4de1-81f9-ef0aff601d3b</ID>
+        <AantalInStock>100</AantalInStock>
+        <Aankoopprijs>5,5</Aankoopprijs>
+        <PlaatsInWarenhuis>C4</PlaatsInWarenhuis>
+        <DatumVanAankoop>9/01/2024 11:49:34</DatumVanAankoop>
+      </AankoopArtikel>
+      <AankoopArtikel>
+        <Naam>Absolut</Naam>
+        <ID>5fc658d4-950a-4d79-9093-6679389fcd23</ID>
+        <AantalInStock>100</AantalInStock>
+        <Aankoopprijs>5</Aankoopprijs>
+        <PlaatsInWarenhuis>C4</PlaatsInWarenhuis>
+        <DatumVanAankoop>9/01/2024 11:49:34</DatumVanAankoop>
+      </AankoopArtikel>
+      <AankoopArtikel>
+        <Naam>Grey Goose</Naam>
+        <ID>25cbda15-c7fd-471b-b772-8b5756ef473d</ID>
+        <AantalInStock>100</AantalInStock>
+        <Aankoopprijs>7</Aankoopprijs>
+        <PlaatsInWarenhuis>C4</PlaatsInWarenhuis>
+        <DatumVanAankoop>9/01/2024 11:49:34</DatumVanAankoop>
+      </AankoopArtikel>
+    </AankoopArtikelen>
+  </AankoopFactuur>
+</AankoopFacturen>

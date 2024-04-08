@@ -1,0 +1,26 @@
+{
+  "Levering": [
+    {
+      "Naam": "Eristoff",
+      "Aantal": 100,
+      "Prijs": 4.5
+    },
+    {
+      "Naam": "Smirnoff",
+      "Aantal": 316,
+      "Prijs": 5.5
+    },
+    {
+      "Naam": "Absolut",
+      "Aantal": 25,
+      "Prijs": 5
+    },
+    {
+      "Naam": "Grey Goose",
+      "Aantal": 35,
+      "Prijs": 7
+    }
+  ],
+  "DatumOntvangst": "2024-01-09T11:47:45.8646366+01:00",
+  "Bedrijfsnaam": "Bools \u0026 Booze"
+}

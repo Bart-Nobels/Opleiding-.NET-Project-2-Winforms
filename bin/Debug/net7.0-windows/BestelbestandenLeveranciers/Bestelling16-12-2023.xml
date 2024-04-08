@@ -1,0 +1,18 @@
+<Bestelling>
+  <Bestelling>
+    <Datum>16/12/2023 16:36:54</Datum>
+    <Bedrijfsnaam>Bools &amp; Booze</Bedrijfsnaam>
+    <Artikelen>
+      <Artikel>
+        <Naam>Eristoff</Naam>
+        <Aantal>30</Aantal>
+        <Prijs>4,5</Prijs>
+      </Artikel>
+      <Artikel>
+        <Naam>Smirnoff</Naam>
+        <Aantal>100</Aantal>
+        <Prijs>5,5</Prijs>
+      </Artikel>
+    </Artikelen>
+  </Bestelling>
+</Bestelling>

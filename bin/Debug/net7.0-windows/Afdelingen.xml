@@ -1,0 +1,12 @@
+<Afdelingen>
+  <Afdeling>
+    <Naam>Verkoop</Naam>
+    <ID>70c5fb9f-fe92-4253-ad7e-c7e017a4d2c8</ID>
+    <Omschrijving>Afdeling verantwoordelijk voor het verkopen van producten aan klanten.</Omschrijving>
+  </Afdeling>
+  <Afdeling>
+    <Naam>Aankoop</Naam>
+    <ID>1d96b4ef-1088-4360-a489-b0aa9f86c084</ID>
+    <Omschrijving>Afdeling verantwoordelijk voor het aankopen van producten en stockeren van producten.</Omschrijving>
+  </Afdeling>
+</Afdelingen>

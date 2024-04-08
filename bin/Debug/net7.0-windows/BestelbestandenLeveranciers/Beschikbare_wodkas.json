@@ -1,0 +1,42 @@
+{
+  "Levering": [
+    {
+      "Naam": "Eristoff",
+      "Aantal": 403,
+      "Prijs": 4.5,
+      "BenodigdeSuikerbiet": 14,
+      "BenodigdeAardappelen": 11,
+      "BenodigdeKruiden": 9,
+      "BenodigdeGist": 4
+    },
+    {
+      "Naam": "Smirnoff",
+      "Aantal": 316,
+      "Prijs": 5.5,
+      "BenodigdeSuikerbiet": 11,
+      "BenodigdeAardappelen": 12,
+      "BenodigdeKruiden": 13,
+      "BenodigdeGist": 6
+    },
+    {
+      "Naam": "Absolut",
+      "Aantal": 572,
+      "Prijs": 5,
+      "BenodigdeSuikerbiet": 16,
+      "BenodigdeAardappelen": 9,
+      "BenodigdeKruiden": 10,
+      "BenodigdeGist": 9
+    },
+    {
+      "Naam": "Grey Goose",
+      "Aantal": 383,
+      "Prijs": 7,
+      "BenodigdeSuikerbiet": 10,
+      "BenodigdeAardappelen": 10,
+      "BenodigdeKruiden": 14,
+      "BenodigdeGist": 13
+    }
+  ],
+  "DatumOntvangst": "2024-01-09T10:09:13.5813976+01:00",
+  "Bedrijfsnaam": "Ziepoesnetniet"
+}

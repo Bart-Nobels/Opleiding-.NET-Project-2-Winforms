@@ -1,0 +1,16 @@
+{
+  "Levering": [
+    {
+      "Naam": "Eristoff",
+      "Aantal": 474,
+      "Prijs": 4.5
+    },
+    {
+      "Naam": "Smirnoff",
+      "Aantal": 311,
+      "Prijs": 5.5
+    }
+  ],
+  "DatumOntvangst": "2023-12-15T14:09:42.4771015+01:00",
+  "Bedrijfsnaam": "Ziepoesnetniet"
+}

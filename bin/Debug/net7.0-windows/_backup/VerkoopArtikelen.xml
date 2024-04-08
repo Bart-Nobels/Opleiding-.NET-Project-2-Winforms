@@ -1,0 +1,14 @@
+<VerkoopArtikelen>
+  <VerkoopArtikel>
+    <Naam>Eristoff</Naam>
+    <ID>a9beb960-6234-4cc6-8635-ca817c8cd1f4</ID>
+    <AantalInStock>-5601</AantalInStock>
+    <Verkoopprijs>1000</Verkoopprijs>
+  </VerkoopArtikel>
+  <VerkoopArtikel>
+    <Naam>Smirnoff</Naam>
+    <ID>ce287f32-2a98-4981-b349-53efa1078c3d</ID>
+    <AantalInStock>-1816</AantalInStock>
+    <Verkoopprijs>1000</Verkoopprijs>
+  </VerkoopArtikel>
+</VerkoopArtikelen>

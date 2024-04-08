@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAankoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminAfdelingAanmaken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminBeheer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminEncryptie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminGegevensVerwijderen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminMedewerkersAanmaken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminMedewerkersBewerken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAdminToDoLijst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmBestellingenAankoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmInventarisAankoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmKlantenBeheer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLeverancierBeheer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLeveringenAankoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmManagerBerichtAanAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmManagerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmManagerWerknemersBewerken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmOverzichtAankoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrijszetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmSuperAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVerkoop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVerkoopOverzicht.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVerslagen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmWerknemersDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmVerkoopKassa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NieuweKlant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

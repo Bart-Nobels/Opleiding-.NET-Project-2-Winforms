@@ -1,0 +1,48 @@
+<Klanten>
+  <Klant>
+    <ID>8cedfac1-15d9-4d46-8ee0-c8c8f244f7b2</ID>
+    <Naam>Default</Naam>
+    <Adres>
+    </Adres>
+    <Telefoonnummer>
+    </Telefoonnummer>
+    <E-mail>
+    </E-mail>
+    <TotaalSaldoVerkoop>0</TotaalSaldoVerkoop>
+    <VerkoopFacturen />
+  </Klant>
+  <Klant>
+    <ID>7ce97a9b-a39c-4ec5-835a-61529e1a1a41</ID>
+    <Naam>Romelu Lukaku</Naam>
+    <Adres>
+    </Adres>
+    <Telefoonnummer>
+    </Telefoonnummer>
+    <E-mail>
+    </E-mail>
+    <TotaalSaldoVerkoop>365</TotaalSaldoVerkoop>
+    <VerkoopFacturen>
+      <VerkoopFactuur>
+        <DatumOpmaakFactuur>9/01/2024 12:02:38</DatumOpmaakFactuur>
+        <ID>2f4659c7-4942-49c5-82d8-1e3ed9862d53</ID>
+        <NaamMedewerker>Evenepoel</NaamMedewerker>
+        <VoornaamMedewerker>Remco</VoornaamMedewerker>
+        <NaamKlant>Romelu Lukaku</NaamKlant>
+        <VerkoopArtikelen>
+          <VerkoopArtikel>
+            <Naam>Absolut</Naam>
+            <ID>5fb842f1-be72-4dee-802c-e598d034e7fe</ID>
+            <AantalInStock>130</AantalInStock>
+            <Verkoopprijs>10</Verkoopprijs>
+          </VerkoopArtikel>
+          <VerkoopArtikel>
+            <Naam>Grey Goose</Naam>
+            <ID>c5e8a1b4-650f-4382-aa32-4806e466deab</ID>
+            <AantalInStock>85</AantalInStock>
+            <Verkoopprijs>11</Verkoopprijs>
+          </VerkoopArtikel>
+        </VerkoopArtikelen>
+      </VerkoopFactuur>
+    </VerkoopFacturen>
+  </Klant>
+</Klanten>

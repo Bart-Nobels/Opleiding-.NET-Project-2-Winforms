@@ -1,0 +1,11 @@
+{
+  "DatumOntvangst": "2023-12-15T23:30:03.1652674+01:00",
+  "Bedrijfsnaam": "Bools \u0026 Booze",
+  "Levering": [
+    {
+      "Naam": "Eristoff",
+      "Aantal": 25,
+      "Prijs": 4.5
+    }
+  ]
+}

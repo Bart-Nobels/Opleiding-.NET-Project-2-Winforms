@@ -1,0 +1,14 @@
+<Klanten>
+  <Klant>
+    <ID>8cedfac1-15d9-4d46-8ee0-c8c8f244f7b2</ID>
+    <Naam>Default</Naam>
+    <Adres>
+    </Adres>
+    <Telefoonnummer>
+    </Telefoonnummer>
+    <E-mail>
+    </E-mail>
+    <TotaalSaldoVerkoop>0</TotaalSaldoVerkoop>
+    <VerkoopFacturen />
+  </Klant>
+</Klanten>
